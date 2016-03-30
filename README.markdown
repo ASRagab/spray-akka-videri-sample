@@ -23,7 +23,7 @@ Follow these steps to get started:
 6. Send requests via Postman or some other runner
 
     - POST /metrics
-    
+      > sample post body
       ``` javascript
       { 
           "id":2,
