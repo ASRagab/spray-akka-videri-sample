@@ -22,8 +22,14 @@ Follow these steps to get started:
         
 6. Send requests via Postman or some other runner
 
-    POST /metrics
-    GET /metrics
+    - POST /metrics
+    > { 
+          "id":2,
+          "payload":"tone clone phones strip mosquitoes dogs cats mice and rain",
+          "timestamp": 1458853122409
+      }
+      
+    - GET /metrics
     
     
 
